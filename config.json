@@ -1,0 +1,18 @@
+{
+  "dev": {
+    "db": {
+      "host": "35.233.60.13",
+      "port": "5432",
+      "user": "salesforce",
+      "password": "password",
+      "database": "postgres",
+      "schema": "salesforce"
+    },
+    "unified": {
+      "host": "http://localhost",
+      "port": 8081
+    }
+  },
+  "tst": {},
+  "prd": {}
+}
